@@ -477,6 +477,13 @@ ul.feature-list {
   font-size: 16px;
 }
 
+.event-meta {
+  margin: -2px 0 10px;
+  font-size: 13px;
+  font-weight: 600;
+  color: #4f4f4f;
+}
+
 .event-image {
   margin-top: 14px;
   border: 1px solid var(--line);
